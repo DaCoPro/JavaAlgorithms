@@ -8,11 +8,12 @@ import com.dcomer.tests.GAAlgorithmChallengeTests;
 public class AlgoPractice {
 
 	public static void main(String[] args) {
-		GAAlgorithmChallengeTests algos = new GAAlgorithmChallengeTests();
+		GAAlgorithmChallengeTests tests = new GAAlgorithmChallengeTests();
 		
-		algos.testSayHello();
-		
-		
+		tests.testSayHello();
+		tests.testAddOne();
+		tests.testAddTwoNums();
+		tests.testSumNumbers();
 		
 		
 	}
