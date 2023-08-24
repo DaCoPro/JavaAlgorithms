@@ -8,9 +8,6 @@ public class LeetcodeTests {
 	public boolean testRomanToInt() {
 		int five_result = algorithms.romanToInt("V");
 		
-		System.out.print(five_result);
-		
-		
 		
 		
 		if (five_result == 5) {

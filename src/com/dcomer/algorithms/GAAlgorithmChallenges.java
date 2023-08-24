@@ -5,6 +5,7 @@ public class GAAlgorithmChallenges {
 		return "Hello!";
 	};
 	
+	
 	public int addOne(int number) {
 		return number + 1;
 	}
